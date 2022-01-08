@@ -9,7 +9,7 @@ So lets see how app images are installed.
 chmod a+x example.AppImage
 ```
 
-- Run the AppImage
+- Run the Executable  created above.
 ```bash
 ./example.AppImage
 ```
